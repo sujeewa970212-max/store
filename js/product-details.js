@@ -21,6 +21,8 @@ rating:"★★★★★",
 
 description:
     "Product Model	RichAuto  A11E. "
+    "Product Model	RichAuto  A11E. "
+"Product Model	RichAuto  A11E. "
 
 },
 
