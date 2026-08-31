@@ -3,24 +3,64 @@ const products = [
 {
 id:1,
 
-name:"Gaming Laptop",
+name:"RichAuto A11E 3 Axis CNC Controller",
 
-category:"Laptop",
+category:"CNC Controller",
 
-image:"images/laptop.jpg",
+image:"images/RichAuto_A11E.jpg",
 
-oldPrice:389000,
+oldPrice:126500,
 
-price:354500,
+price:115000,
 
 discount:"10%",
 
 rating:"★★★★★",
 
-stock:"In Stock",
+/*stock:"In Stock",*/
 
 description:
-"High performance gaming laptop with powerful processor, dedicated graphics card and fast SSD storage."
+"Series： A1X series
+
+Linkage Axis：3 axis
+
+Screen Size：3 inch monochrome screen
+
+ControlI/O：8I/8O
+
+Model No.：RichAuto—A11
+
+Product Feature
+
+ New three-axis linkage motion mode to achieve comprehensive controlling
+ Support XYZ axis driver and spindle error alarm function
+ Large storage space, perfect U disk compatibility, fast reading speed, safe and reliable U disk-processing.
+ Support intelligent file-checking function.
+ Parameter backup and restore function to prevent the loss of essential parameters.
+ High anti-jamming intensity passes many CE tests.
+ Intelligent processing memory, supports power fail to safeguard and breakpoint function.
+ Definable I/O interfaces provide customers with a wide range of development platforms. 
+Product Parameters
+
+Product Model	RichAuto----A11
+CPU	DSP
+Internal Memory	512Mb
+Display Screen	128*64 Monochrome LCD
+Communication Port	U disk、USB cable
+Controlled Axis Number	3 axis
+Control Signal	differential signal
+Drive System	step motor/servo motor
+Minimum Input Unit	0.001mm
+No Volt Protection	Support
+Breakpoint Processing Function	Support
+External Power Supply Voltage	24V DC
+Manual Mode	Continuous、point move、distance
+Interpolation Method	line、arc、curve
+Soft/Hard Limit	support
+Maximum Pulse Frequency	1M/S
+Password Protection	support
+Support Language	simple Chinese/traditional Chinese、English、other languages
+Standard Configuration	(1) DSP Handle；(1) 50 core cable (1)USB cable； (1)8 I/O Wiring board;(1) data CD"
 
 },
 
