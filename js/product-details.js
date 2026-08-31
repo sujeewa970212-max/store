@@ -44,10 +44,10 @@ discount:"5%",
 
 rating:"★★★★☆",
 
-stock:"In Stock",
+/*stock:"In Stock",*/
 
 description:
-"Mechanical RGB gaming keyboard with anti-ghosting keys and durable switches."
+"  ."
 
 },
 
@@ -55,24 +55,24 @@ description:
 {
 id:2,
 
-name:"Gaming Mouse",
+name:"Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller",
 
-category:"Mouse",
+category:"CNC Controller",
 
-image:"images/mouse.jpg",
+image:"images/cloned_richauto_a11.jpg",
 
-oldPrice:10000,
+oldPrice:67200,
 
-price:8500,
+price:60000,
 
-discount:"15%",
+discount:"12%",
 
 rating:"★★★★★",
 
-stock:"In Stock",
+/*stock:"In Stock",*/
 
 description:
-"High precision gaming mouse with adjustable DPI and RGB lighting."
+"Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller (2.5m Wire)."
 
 }
 
