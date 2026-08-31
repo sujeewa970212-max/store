@@ -1,4 +1,4 @@
-/*const products = {
+const products = {
 
 
 1:{
@@ -24,20 +24,20 @@ description:
 
 2:{
 
-name:"Gaming Keyboard",
+name:"Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller",
 
-category:"Keyboard",
+category:"CNC Controller",
 
-price:4500,
+price:60000,
 
-oldprice:5000,
+oldprice:67200,
 
-image:"images/keyboard.jpg",
+image:"images/cloned_richauto_a11.jpg",
 
 rating:"★★★★☆",
 
 description:
-"RGB mechanical gaming keyboard."
+"Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller (2.5m Wire)."
 
 },
 
@@ -64,4 +64,4 @@ description:
 
 
 };
-*/
+
