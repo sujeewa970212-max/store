@@ -20,7 +20,7 @@ rating:"★★★★★",
 /*stock:"In Stock",*/
 
 description:
-    "Product Model	RichAuto----A11"
+    "Product Model	RichAuto  A11E. "
 
 },
 
