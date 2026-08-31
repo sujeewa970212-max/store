@@ -31,39 +31,32 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
 </div>
 
 
-<nav>
+<nav id="nav-menu">
 
-<a href="index.html">Home</a>
+        <a href="index.html">Home</a>
+       <!-- <a href="products.html">Products</a> -->
+        <a href="contact.html">Contact</a>
 
-<!--<a href="products.html">Products</a>-->
+        <a href="signin.html" id="signin-link">
+            Sign In
+        </a>
 
-<a href="contact.html">Contact</a>
+        <span id="user-status"></span>
 
-<a href="signin.html" id="signin-link">
-    Sign In
-</a>
- <span id="user-status"></span>
+        <button id="logout-btn" style="display:none;">
+            Logout
+        </button>
 
-    <button id="logout-btn" style="display:none;">
-        Logout
-    </button>
-
-</nav>
-
-
-<div class="cart-icon">
-
-<a href="cart.html">
-
-<i class="fa-solid fa-cart-shopping"></i>
-
-<span class="cart-count">
-0
-</span>
-
-</a>
-
-</div>
+        <a href="admin.html" id="admin-link" style="display:none;">
+            Admin
+        </a>
+    </nav>
+       <div class="cart-icon">
+        <a href="cart.html">
+            <i class="fa-solid fa-cart-shopping"></i>
+            <span class="cart-count">0</span>
+        </a>
+    </div>
 
 
 </header>
@@ -105,7 +98,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
 
 </footer>
 
-
+<script src="js/menu.js"></script>
 <script src="js/product-details.js"></script>
 
 <script src="js/cart.js"></script>
