@@ -3,15 +3,15 @@ const products = {
 
 1:{
 
-name:"Gaming Laptop",
+name:"RichAuto A11E 3 Axis CNC Controller",
 
-category:"Laptop",
+category:"CNC Controller",
 
-price:354500,
+price:126500,
 
-oldprice:389000,
+oldprice:115000,
 
-image:"images/laptop.jpg",
+image:"images/RichAuto_A11E.jpg",
 
 rating:"★★★★★",
 
