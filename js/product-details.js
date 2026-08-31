@@ -170,12 +170,6 @@ Rs.${product.price.toLocaleString()}
 
 
 
-<span class="stock">
-
-${product.stock}
-
-</span>
-
 
 
 <p class="product-description">
