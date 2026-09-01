@@ -21,34 +21,6 @@ rating:"★★★★★",
 
 description:
     "Product Model	RichAuto  A11E. "
-    "Product Model	RichAuto  A11E. "
-"Product Model	RichAuto  A11E. "
-
-},
-
-
-{
-id:3,
-
-name:"Gaming Keyboard",
-
-category:"Keyboard",
-
-image:"images/keyboard.jpg",
-
-oldPrice:5000,
-
-price:4500,
-
-discount:"5%",
-
-rating:"★★★★☆",
-
-/*stock:"In Stock",*/
-
-description:
-"  ."
-
 },
 
 
@@ -75,6 +47,33 @@ description:
 "Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller (2.5m Wire)."
 
 }
+
+{
+id:3,
+
+name:"Gaming Keyboard",
+
+category:"Keyboard",
+
+image:"images/keyboard.jpg",
+
+oldPrice:5000,
+
+price:4500,
+
+discount:"5%",
+
+rating:"★★★★☆",
+
+/*stock:"In Stock",*/
+
+description:
+"  ."
+
+},
+
+
+
 
 
 ];
