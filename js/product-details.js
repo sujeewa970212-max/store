@@ -29,7 +29,7 @@ id:2,
 
 name:"Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller",
 
-category:"CNC Controller",
+category:"CNC",
 
 image:"images/cloned_richauto_a11.jpg",
 
